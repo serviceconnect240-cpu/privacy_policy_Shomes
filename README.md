@@ -1,4 +1,4 @@
-# Privacy Policy for Smart Home App
+# Privacy Policy for Homiq
 **Last Updated: August 29, 2025**
 
 ## 1. Introduction
